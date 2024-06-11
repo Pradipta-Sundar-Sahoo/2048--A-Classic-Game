@@ -17,6 +17,8 @@ This is a Python implementation of the popular 2048 game using the Tkinter libra
 - Real-time visual feedback on button presses with a flicker effect.
 - Aesthetic and user-friendly UI with customizable color scheme.
 
+![image](https://github.com/Pradipta-Sundar-Sahoo/2048--A-Classic-Game/assets/157369477/d6e6f604-07a7-4797-91ed-f9dfd33c65be)
+
 ## Installation
 
 1. Clone the repository:
